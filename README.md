@@ -7,7 +7,7 @@ I've been a developer since I was 9 years old, primarily assisting with backend 
 |                    Project Name                       | isActive |
 | ----------------------------------------------------  | -------- |
 | **[Yazılım Değişkeni](https://yazilimdegiskeni.com)** |   True   | 
-| **[Blog](https://blog.ihsanbakidogan..com)**          |   True   | 
+| **[Blog](https://blog.ihsanbakidogan.com)**          |   True   | 
 | **[Web Site](https://ihsanbakidogan.com)**            |   True   | 
 
 _Trying to add more to the list!_
