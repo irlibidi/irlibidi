@@ -15,7 +15,7 @@ _Trying to add more to the list!_
 ### Me
 
 🌱 **[İnstagram](https://instagram.com/ihsanbakidogann)**
-🤔 **[Twitter](https://twitter.com/ihsanbakidogann)**
+🤔 **[Twitter](https://twitter.com/irlibidi)**
 💬 **[Twitch](https://twitch.tv/ibidi)**
 
   <!--
