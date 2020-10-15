@@ -1,4 +1,4 @@
-## Hi visitor! 👋
+## Hi there! 👋
 My name is İhsan, I am 19 and I am currently living in  Istanbul-Turkey. I am the Founder of **[Yazılım Değişkeni](https://yazilimdegiskeni.com)** and Founder of the Discord Bot named Tatlı.  _Also started working on a secret project_
 
 I've been a developer since I was 9 years old, primarily assisting with backend API's and databases. I now have my own company, and consult others.
