@@ -3,13 +3,6 @@ My name is ibidi. I am the Founder of **[Yazılım Değişkeni](https://yazilimd
 
 I've been a developer since I was 9 years old, primarily assisting with backend API's and databases. I now have my own company, and consult others.
 
-### Projects
-|                    Project Name                       | isActive |
-| ----------------------------------------------------  | -------- |
-| **[Yazılım Değişkeni](https://yazilimdegiskeni.com)** |   True   | 
-| **[Blog](https://blog.ihsanbakidogan.com)**          |   True   | 
-| **[Web Site](https://ihsanbakidogan.com)**            |   True   | 
-
 _Trying to add more to the list!_
 
 ### Me
