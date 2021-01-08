@@ -2,10 +2,13 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ibidi&show_icons=true&hide_title=true&theme=merko">
 
-Şu anda yazılım öğrencisiyim.
+Kim bu ibidi?
 
-- 👯 Boş zamanlarımda ekibim ile birlikte bir şeyler kodluyorum
-- 🎈 Nuxt ve vue.js öğrenme konusundaki hedefimi güç geçtikçe ilerletiyorum.
-- ⚡ Boş zamanlarımda oyunlar oynayıp, müzikler dinliyorum.
+Genel olarak bilindiği gibi ben ibidi. Yazılım ile uğraşan bir yazılımcıyım. (Ne kadar da açıklayıcı oldu demi :D)
+Genellikle beni bir şeyler kodlarken görürsünüz fakat boş zamanlarımda müzik dinleyerek kendime zaman ayırmaya bakarım.
+Şu sıralar bir çok proje üzerinde çalışmalar yapıyorum. Onlara gelecek olursak;
+> Yazılım Değişkeni: yazilimdegiskeni.com (Founder)
+> ibiNET: ibidi.app (Founder)
 
-[🐦 discord](https://https://discord.com/users/725410917319311360) | [🏡 instagram](https://www.instagram.com/ibishuu)
+Bağlantılar;
+[Discord](https://https://discord.com/users/725410917319311360) | [İnstagram](https://www.instagram.com/ibishuu)
