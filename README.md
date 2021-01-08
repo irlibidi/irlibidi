@@ -7,8 +7,8 @@ Kim bu ibidi?
 Genel olarak bilindiği gibi ben ibidi. Yazılım ile uğraşan bir yazılımcıyım. (Ne kadar da açıklayıcı oldu demi :D)
 Genellikle beni bir şeyler kodlarken görürsünüz fakat boş zamanlarımda müzik dinleyerek kendime zaman ayırmaya bakarım.
 Şu sıralar bir çok proje üzerinde çalışmalar yapıyorum. Onlara gelecek olursak;
-> Yazılım Değişkeni: yazilimdegiskeni.com (Founder)
-> ibiNET: ibidi.app (Founder)
+- Yazılım Değişkeni: yazilimdegiskeni.com (Founder)
+- ibiNET: ibidi.app (Founder)
 
 Bağlantılar;
 [Discord](https://https://discord.com/users/725410917319311360) | [İnstagram](https://www.instagram.com/ibishuu)
