@@ -1,7 +1,6 @@
 ### It's me, ibidi 👋
-My name is ibidi, I'm a 20 years old student living in Turkey.
 
-one day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
+One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
 - My website: [ibidi.app](https://ibidi.app)
 - Twitter: [@ibishuu](https://twitter.com/ibishuu)
