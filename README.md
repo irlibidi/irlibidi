@@ -1,5 +1,7 @@
 ### It's me, ibidi 👋
 
+ibidi is over :)
+
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
 - My website: [ibidi.app](https://ibidi.app)
